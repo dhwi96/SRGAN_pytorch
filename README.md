@@ -1,1 +1,1 @@
-# SRGAN_Pytorch
+# SRGAN
